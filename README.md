@@ -24,5 +24,5 @@
 
 ## 当前项目
 
-1. [手机个人智能 agent 训练数据项目](projects/mobile-agent-data/README.md)：任务与 trace 的筛选、合成、验证及 SFT／agentic RL 数据支持；当前为初始化与方案讨论阶段。
-2. 本分支的工作入口为 [AGENTS.md](AGENTS.md)，后续工作读取并沿用本仓库的研究 skill。
+1. [主动服务 agent：agentic RL／SFT 研究与工程](projects/mobile-agent-data/README.md)：以现有 agent 的能力提升为目标，开展数据筛选、合成、训练与评测研究；当前为背景梳理与方案讨论阶段。第 9 节维护待确认问题，第 10 节维护当前状态与重要讨论调整。
+2. 本分支的工作入口为 [AGENTS.md](AGENTS.md)，后续工作读取并沿用本仓库的研究 skill，持续更新讨论结论、调整依据与问题状态。
