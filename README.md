@@ -24,5 +24,5 @@
 
 ## 当前项目
 
-1. [主动服务 agent：记忆使用的数据评测、筛选与合成](projects/mobile-agent-data/README.md)：当前专注数据工作，训练基础设施与算法由其他同事配合。入门步骤和具体例子见项目文档，当前重点为 [评估系统设计](projects/mobile-agent-data/evaluation-design.md)；项目说明第 9 节维护待确认问题，第 10 节维护当前状态与重要讨论调整。
+1. [主动服务 agent：记忆使用的数据评测、筛选与合成](projects/mobile-agent-data/README.md)：当前专注数据工作，训练基础设施与算法由其他同事配合。入门步骤和具体例子见项目文档；[评估系统设计](projects/mobile-agent-data/evaluation-design.md)已更新业务评分接入、现有维度复用与证据核验方法（2026-11-04）。项目说明第 9 节维护待确认问题，第 10 节维护当前状态与重要讨论调整。
 2. 本分支的工作入口为 [AGENTS.md](AGENTS.md)，后续工作读取并沿用本仓库的研究 skill，持续更新讨论结论、调整依据与问题状态。
